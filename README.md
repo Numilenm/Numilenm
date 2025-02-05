@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I love discovering new technologies and applying them to solve real-world business challenges!  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numilenm&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Numilenm&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=Numilenm&theme=dark&hide_border=true)
