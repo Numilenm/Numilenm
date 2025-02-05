@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning **advanced Python programming** and exploring the latest technology trends.  
 - 💞️ I’m looking to collaborate on **projects that involve customizing and extending software functionalities.**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/numilenmonzon/)  
-- 😄 Pronouns: **Numi**  
+- 😄 Preferred name: **Numi**  
 - ⚡ Fun fact: I love discovering new technologies and applying them to solve real-world business challenges!  
