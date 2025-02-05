@@ -6,3 +6,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/numilenmonzon/)  
 - 😄 Preferred name: **Numi**  
 - ⚡ Fun fact: I love discovering new technologies and applying them to solve real-world business challenges!  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numilenm&theme=dark&show_icons=true&hide_border=true&count_private=true)
