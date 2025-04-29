@@ -38,6 +38,12 @@ I love exploring bleeding-edge tech and weaving it into real business tools. If 
 ![Numilenm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numilenm&theme=radical&show_icons=true&hide_border=true&count_private=true)  
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Numilenm&theme=radical&layout=compact&hide_border=true)  
 ![Contribution Streak](https://streak-stats.demolab.com?user=Numilenm&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 </div>
 
