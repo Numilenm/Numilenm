@@ -1,30 +1,51 @@
-<h1 align="center">👋 Hi, I’m @Numilenm</h1>
+<h1 align="center">✨ Hey there, I'm Numi 👩‍💻</h1>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
+<p align="center">
+  <em>Crafting elegant solutions with code, one module at a time.</em>
+</p>
+
+---
+
+<div align="center">
+
+🚀 **About Me**  
+I’m a software developer who thrives on creating efficient, adaptable systems and automating real-world business processes. I enjoy turning complex challenges into simple, intuitive solutions.
+
+🧠 **Currently Deep Diving Into:**  
+Advanced Python 🐍 | Modern JavaScript ⚡ | Smart integrations using APIs & automation.
+
+🤝 **Let’s Collaborate:**  
+I’m always up for projects where I can extend, customize or optimize existing platforms – especially if it helps businesses grow smarter.  
+
+📬 **Let’s Connect:**  
+Find me on [LinkedIn](https://www.linkedin.com/in/numilenmonzon/) – I go by **Numi** 😊
+
+🎯 **Fun Fact:**  
+I love exploring bleeding-edge tech and weaving it into real business tools. If it saves time or brings clarity – I'm in!
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 My GitHub Highlights
+
+![Numilenm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numilenm&theme=radical&show_icons=true&hide_border=true&count_private=true)  
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Numilenm&theme=radical&layout=compact&hide_border=true)  
+![Contribution Streak](https://streak-stats.demolab.com?user=Numilenm&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
 <div align="center">
   
-💻 **I’m interested in** software development, open-source systems, and automating business processes.  
-🌱 **Currently learning** advanced Python programming and exploring the latest technology trends.  
-💞️ **Looking to collaborate on** projects that involve customizing and extending software functionalities.  
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/numilenmonzon/)  
-😄 **Preferred name:** Numi  
-⚡ **Fun fact:** I love discovering new technologies and applying them to solve real-world business challenges!  
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numilenm&theme=dark&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numilenm&theme=dark&show_icons=true&hide_border=true&layout=compact)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Numilenm&theme=dark&hide_border=true)  
+🛠️ **Tech Toolbox:**  
+Python | JavaScript | Haskell | PostgreSQL | HTML/CSS | XML | Odoo | Git | Linux  
 
 </div>
